@@ -37,7 +37,27 @@ An in-app scanner (powered by camera/image picker) is integrated to allow users 
 **Data Tracking and Comparison**  
 Users can view past records and track how their expenses evolve over time, offering valuable feedback for financial planning.
 
----
+
+
+<h3>App Screenshots</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6747dd78-3770-4642-9309-68743ffdf26b" alt="Welcome Screen" width="200"/>
+  <img src="https://github.com/user-attachments/assets/acf9a27c-fdbf-4a64-a91d-aa0110389f1b" alt="Sign In" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3fca0702-ca77-412b-ad1c-948d7727144b" alt="Home Screen" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cc9fcaa-9bf2-477d-9ad4-7abd3f5b9b67" alt="Add Expense" width="200"/>
+  <img src="https://github.com/user-attachments/assets/43022595-29a9-4efa-a8bd-eca917849d63" alt="Graphs" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6e6dd0a8-72f2-4d45-97ad-623c4c650ef4" alt="Search Bar" width="200"/>
+</p>
+
+
+
+
+
+
 
 ## Getting Started
 
